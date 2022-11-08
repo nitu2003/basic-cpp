@@ -23,4 +23,4 @@ int main(){
      cout<<cal<<endl;
     cout<<result<<endl;
 }
-
+// 
